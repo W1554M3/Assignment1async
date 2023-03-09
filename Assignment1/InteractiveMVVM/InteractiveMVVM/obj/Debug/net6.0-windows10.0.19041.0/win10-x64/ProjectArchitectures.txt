@@ -1,0 +1,1 @@
+D:\wissa\Documents\Framework\Assignment1\InteractiveMVVM\InteractiveMVVM\InteractiveMVVM.csproj;x64
